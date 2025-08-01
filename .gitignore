@@ -2,3 +2,13 @@
 /backend/venv/
 /frontend/node_modules/
 /.crush/
+/backend/data/csv/
+/__pycache__/
+/**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.coverage
+.pytest_cache/
